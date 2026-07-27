@@ -1,4 +1,4 @@
-# 🛡️ OpsWarden
+# OpsWarden
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)](#)
@@ -6,21 +6,21 @@
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)](#)
 [![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)](#)
 
-**OpsWarden** est une plateforme moderne et ultra-performante de monitoring et d'alerting pour infrastructures Cloud-Native. Pensée pour les équipes DevOps exigeantes, elle combine un backend foudroyant en Rust, une interface web fluide en Next.js, et une intégration profonde avec l'écosystème Kubernetes pour garder un œil absolu sur la santé de vos systèmes en temps réel.
+**OpsWarden** is a modern, ultra-performant monitoring and alerting platform for Cloud-Native infrastructures. Designed for demanding DevOps teams, it combines a blazing-fast Rust backend, a seamless Next.js web interface, and deep integration with the Kubernetes ecosystem to keep an absolute eye on your systems' health in real-time.
 
-## 🗺️ Architecture
+## Architecture
 
 ![OpsWarden Architecture](./opswarden_architecture.png)
 
-## 🔗 Liens Utiles
+## Useful Links
 
-### 🌐 Plateformes
-- **[Site Vitrine](https://opswarden.dev/)**
-- **[Application Web (Production)](https://app.opswarden.dev/en/login)**
-- **[API Backend](https://api.opswarden.dev)**
-- **[Documentation Officielle](https://opswarden-git.github.io/opswarden/)**
+### Platforms
+- **[Marketing Website](https://opswarden.dev/)**
+- **[Web Application (Production)](https://app.opswarden.dev/en/login)**
+- **[Backend API](https://api.opswarden.dev)**
+- **[Official Wiki](https://opswarden-git.github.io/opswarden/)**
 
-### 📦 Dépôts GitHub
-- **[opswarden](https://github.com/opswarden-git/opswarden)** : Le code source de l'API (Rust), du frontend (Next.js) et du client lourd (Tauri).
-- **[opswarden-ops](https://github.com/opswarden-git/opswarden-ops)** : L'Infrastructure-as-Code (Terraform) et les manifestes de déploiement Kubernetes.
-- **[opswarden-website](https://github.com/opswarden-git/opswarden-website)** : Le site web marketing.
+### GitHub Repositories
+- **[opswarden](https://github.com/opswarden-git/opswarden)**: Source code for the API (Rust), frontend (Next.js), and desktop client (Tauri).
+- **[opswarden-ops](https://github.com/opswarden-git/opswarden-ops)**: Infrastructure-as-Code (Terraform) and Kubernetes deployment manifests.
+- **[opswarden-website](https://github.com/opswarden-git/opswarden-website)**: The marketing website.
