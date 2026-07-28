@@ -19,6 +19,6 @@ To browse the source code:
 - [opswarden-ops](https://github.com/opswarden-git/opswarden-ops): Infrastructure-as-Code (Terraform) and Kubernetes deployment manifests.
 - [opswarden-website](https://github.com/opswarden-git/opswarden-website): The marketing website.
 
-For contributors, you will be happy to explore the [Official Wiki](https://opswarden-git.github.io/opswarden/).
+For deep-dives and comprehensive documentation, explore the [Official Wiki](https://opswarden-git.github.io/opswarden/).
 
 ![OpsWarden Architecture](./opswarden_architecture.png)
