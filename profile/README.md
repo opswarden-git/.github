@@ -21,6 +21,4 @@ To browse the source code:
 
 For contributors, you will be happy to explore the [Official Wiki](https://opswarden-git.github.io/opswarden/).
 
-Find the architecture diagram below:
-
 ![OpsWarden Architecture](./opswarden_architecture.png)
