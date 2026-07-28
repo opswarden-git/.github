@@ -12,14 +12,14 @@ To use the web application:
 - [Marketing Website](https://opswarden.dev/)
 - [Web Application](https://app.opswarden.dev/en/login)
 
-To download the latest desktop version: [Releases](https://github.com/opswarden-git/opswarden/releases)
+To download the desktop application, see the **[latest releases](https://github.com/opswarden-git/opswarden/releases)**.
 
 To browse the source code:
 - [opswarden](https://github.com/opswarden-git/opswarden): Source code for the API (Rust), frontend (Next.js), and desktop client (Tauri).
 - [opswarden-ops](https://github.com/opswarden-git/opswarden-ops): Infrastructure-as-Code (Terraform) and Kubernetes deployment manifests.
 - [opswarden-website](https://github.com/opswarden-git/opswarden-website): The marketing website.
 
-To read the documentation: [Official Wiki](https://opswarden-git.github.io/opswarden/)
+For contributors, you will be happy to explore the **[Official Wiki](https://opswarden-git.github.io/opswarden/)**.
 
 Find the architecture diagram below:
 
