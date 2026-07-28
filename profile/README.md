@@ -16,11 +16,10 @@
 
 ### Platforms
 - **[Marketing Website](https://opswarden.dev/)**
-- **[Web Application (Production)](https://app.opswarden.dev/en/login)**
-- **[Backend API](https://api.opswarden.dev)**
+- **[Web Application](https://app.opswarden.dev/en/login)**
 - **[Official Wiki](https://opswarden-git.github.io/opswarden/)**
 
-### GitHub Repositories
+### Repositories
 - **[opswarden](https://github.com/opswarden-git/opswarden)**: Source code for the API (Rust), frontend (Next.js), and desktop client (Tauri).
 - **[opswarden-ops](https://github.com/opswarden-git/opswarden-ops)**: Infrastructure-as-Code (Terraform) and Kubernetes deployment manifests.
 - **[opswarden-website](https://github.com/opswarden-git/opswarden-website)**: The marketing website.
